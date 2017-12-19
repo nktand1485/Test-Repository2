@@ -1,3 +1,1 @@
-# Test-Repository2
-
-Test File.
+console.log("Hello World!");
